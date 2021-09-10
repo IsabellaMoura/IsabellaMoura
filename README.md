@@ -2,15 +2,11 @@
 
 - 😄 Pronouns: she/her
 
-### 📓 Academic Education
-
-- Análise e Desenvolvimento de Sistemas - Universidade Nove de Julho
-- Instituto Proa 
 
 <div>
   <a href="https://github.com/IsabellaMoura">
-  <img height="180em" img align="float" src="https://github-readme-stats.vercel.app/api?username=IsabellaMoura&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" img align="float" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabellaMoura&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=IsabellaMoura&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabellaMoura&layout=compact&langs_count=7&theme=dracula"/>
 </div> 
 <div style="display: inline_block"><br>
   <h3>Learning:</h3>
